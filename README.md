@@ -1,7 +1,8 @@
 # Adidas Sales Analysis – Power BI Dashboard
 
 ## 📊 Dashboard Preview
-![Adidas Sales Dashboard]((https://github.com/user-attachments/assets/63e7cc65-2d4b-47e2-8d4b-958cb2e00af4))
+![Adidas Sales Dashboard](https://github.com/user-attachments/assets/77d89bae-62da-4d78-8c94-99aac94610ea)
+
 
 ---
 
