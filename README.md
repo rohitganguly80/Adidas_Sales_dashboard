@@ -106,7 +106,3 @@ Rohit Ganguly
 
 ## 📄 License
 This project is created for academic and portfolio purposes only.
-
-
-## 📁 Repository Structure
-
